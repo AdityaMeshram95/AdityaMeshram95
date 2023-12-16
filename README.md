@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AdityaMeshram95
-- 🌱 I’m currently learning Java
+- 🌱 Fullstack Developer
 - 💞️ I’m looking to work on new projects
